@@ -5,11 +5,11 @@
         "name": "rtt-speech-to-text",
         "label": "speech_to_text",
         "plan": "standard",
-        "credentials": {
-          "url": "https://stream.watsonplatform.net/speech-to-text/api",
-          "username": "USERNAME",
-          "password": "PASSWORD"
-        }
+         "credentials": {
+    "url": "https://stream.watsonplatform.net/speech-to-text/api",
+    "password": "P8oPYH3UioUX",
+    "username": "2eb20a95-ea31-4305-bd9c-600423847ac8"
+  }
       }
     ]
   }
